@@ -33,6 +33,7 @@ A pre-built iso is available here:
 
 https://github.com/KeithDHedger/LFSBootCD/releases/download/9.0/LFSBootCDPart00
 https://github.com/KeithDHedger/LFSBootCD/releases/download/9.0/LFSBootCDPart01
+https://github.com/KeithDHedger/LFSBootCD/releases/download/9.0/LFSBootCDPart02
 
 You must download all parts and then join them together like so:
 
